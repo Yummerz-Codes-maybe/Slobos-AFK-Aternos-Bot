@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "YummySMP-09VZ.aternos.me:63449",
+    "ip": "YummySMP-09VZ.aternos.me",
     "port": 63449,
     "version": "",
     "try-creative": false
